@@ -1,0 +1,28 @@
+_repo: The-pragmatic-theory-of-truth-as-developed-by-Peirce-James-and-Dewey_37552
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Geyer, Denton Loring
+    birthdate: 1884
+    gutenberg_agent_id: '38914'
+    url: http://www.gutenberg.org/2009/agents/38914
+description: ''
+gutenberg_issued: '2011-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peirce, Charles S. (Charles Sanders), 1839-1914'
+- !lcsh 'Pragmatism'
+- !lcc 'B'
+- !lcsh 'James, William, 1842-1910'
+- !lcsh 'Dewey, John, 1859-1952'
+title: The pragmatic theory of truth as developed by Peirce, James, and Dewey
+url: http://www.gutenberg.org/ebooks/37552
